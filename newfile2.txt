@@ -1,6 +1,4 @@
-Master branch version of new file 2
-
+simple text file with to practice with gitK
 Some more lines added
 and another line
 yet more lines
-
