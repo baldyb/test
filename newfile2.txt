@@ -1,0 +1,6 @@
+Master branch version of new file 2
+
+Some more lines added
+and another line
+yet more lines
+
